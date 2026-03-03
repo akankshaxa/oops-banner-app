@@ -11,3 +11,4 @@ lines[6] = System.out.println(String.join("   ***  "  , " " , " **      " , " " 
 for (String line: lines) {
 System.out.println(line);
 }
+}
